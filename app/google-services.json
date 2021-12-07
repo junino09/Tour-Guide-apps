@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619675068637",
+    "firebase_url": "https://tourguide-ccc51-default-rtdb.firebaseio.com",
+    "project_id": "tourguide-ccc51",
+    "storage_bucket": "tourguide-ccc51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619675068637:android:1961d60137de64330cd334",
+        "android_client_info": {
+          "package_name": "com.junino.tourguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619675068637-hhtphgvauh76of8trpppt5mn88pcol0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrm3jyxjrQVVRvM2Tf4xvhnWemKJIaQhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619675068637-hhtphgvauh76of8trpppt5mn88pcol0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
